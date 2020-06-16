@@ -9,7 +9,7 @@ public class Test {
     @RequestMapping("test")
     public String get(){
         System.out.println("--------in--------");
-        return "hookbbbbbbb";
+        return "hookbbbbaaaaaaabbb";
     }
 
 
