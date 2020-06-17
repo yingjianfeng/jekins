@@ -9,7 +9,7 @@ public class Test {
     @RequestMapping("test")
     public String get(){
         System.out.println("--------in--------");
-        return "666";
+        return "77777";
     }
 
 
